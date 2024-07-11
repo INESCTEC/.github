@@ -1,3 +1,6 @@
+![INESCTEC-banner](https://raw.githubusercontent.com/INESCTEC/.github/main/profile/inesctec_banner.png)
+
+
 # INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
 
 ### Who are we?
