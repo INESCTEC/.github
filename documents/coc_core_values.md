@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](../profile/inesctec_banner.png)
 # Why is a code of conduct needed?
 
 </div>
