@@ -3,8 +3,8 @@
 
 ![logo](../profile/inesctec_banner.png)
 
-## Code Of Conduct
-### INESC TEC
+## INESC TEC
+### Open-Source Software: Code Of Conduct
 
 </div>
 
