@@ -4,7 +4,7 @@
 ![logo](../profile/inesctec_banner.png)
 
 ## INESC TEC
-### Open-Source Software: Code Of Conduct
+### Open-Source Software: *Code Of Conduct*
 
 </div>
 
