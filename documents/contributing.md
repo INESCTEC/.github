@@ -8,8 +8,6 @@
 </div>
 
 
-**Welcome to INESCTEC's Open Source Contribution Guidelines**
-
 Welcome to INESCTEC's open-source community! We appreciate your interest in contributing to our projects. Your contributions are crucial for fostering innovation and driving positive change.
 
 These guidelines are designed to assist you throughout the contribution process. Whether you're fixing a bug, adding a feature, or suggesting improvements, your input is highly valued.
