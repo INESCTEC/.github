@@ -3,15 +3,15 @@
 ![logo](../profile/inesctec_banner.png)
 
 ## INESC TEC
-### Open-Source Software: Why contribute to open-source?
+### Open-Source Software: *Why contribute to open-source?*
 
 </div>
 
-1. **Improve the software you rely on**
-2. **Learn from others and teach**
-3. **Grow a reputation and leverage your career**
-4. **Improve your soft skills**
-5. **Help build a community**
+1. Improve the software you rely on
+2. Learn from others and teach
+3. Grow a reputation and leverage your career
+4. Improve your soft skills
+5. Help build a community
 
 ## 1 - Improve the software you rely on
 
