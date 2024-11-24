@@ -1,7 +1,9 @@
 <div align="center">
 
 ![logo](../profile/inesctec_banner.png)
-# Why is a code of conduct needed?
+
+## INESC TEC
+### Open-Source Software: Why is a code of conduct needed?
 
 </div>
 
