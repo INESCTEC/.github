@@ -3,7 +3,7 @@
 ![logo](../profile/inesctec_banner.png)
 
 ## INESC TEC
-### Open-Source Software: Why is a code of conduct needed?
+### Open-Source Software: *Why is a code of conduct needed?*
 
 </div>
 
