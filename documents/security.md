@@ -3,7 +3,7 @@
 ![logo](../profile/inesctec_banner.png)
 
 ## INESC TEC
-### Open-Source Software: Security
+### Open-Source Software: *Security*
 
 </div>
 
