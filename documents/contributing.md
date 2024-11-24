@@ -1,11 +1,12 @@
-
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](../profile/inesctec_banner.png)
 
-# Contribution Guidelines
+## INESC TEC
+### Open-Source Software: Contribution Guidelines
 
 </div>
+
 
 **Welcome to INESCTEC's Open Source Contribution Guidelines**
 
