@@ -1,8 +1,10 @@
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](../profile/inesctec_banner.png)
 
-## Security
+## INESC TEC
+### Open-Source Software: Security
+
 </div>
 
 ### Reporting security issues
