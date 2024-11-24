@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](../profile/inesctec_banner.png)
 
 ## Code Of Conduct
 ### INESC TEC
