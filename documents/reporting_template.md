@@ -1,4 +1,11 @@
-# Security Issue Reporting Template
+<div align="center">
+
+![logo](../profile/inesctec_banner.png)
+
+## INESC TEC
+### Open-Source Software: Security Issue Reporting Template
+
+</div>
 
 If you have encountered a security issue or vulnerability, please follow this template to help us understand and address the problem efficiently.
 
