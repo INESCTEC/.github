@@ -1,8 +1,9 @@
 <div align="center">
 
-![logo](../assets/logo.png)
+![logo](../profile/inesctec_banner.png)
 
-# Why contribute to open-source?
+## INESC TEC
+### Open-Source Software: Why contribute to open-source?
 
 </div>
 
