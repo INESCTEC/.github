@@ -19,5 +19,5 @@ Feel free to explore our **open-source projects**!
 ### Connect with us
 
 * [Contacts](https://www.inesctec.pt/en/get-in-touch)
-* [INESC TEC Twitter](https://twitter.com/INESCTEC)
-* [INESC TEC LinkedIn](https://www.linkedin.com/company/inesc-tec/)
+* [Find us on X](https://x.com/INESCTEC)
+* [Find us on LinkedIn](https://www.linkedin.com/company/inesc-tec/)
