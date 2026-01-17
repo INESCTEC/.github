@@ -17,7 +17,7 @@ Feel free to explore our [**open-source website**](https://oss.inesctec.pt/)!
 
 ### Connect with us
 
-* [Contacts](https://www.inesctec.pt/en/get-in-touch)
+* [Contact](mailto:oss@inesctec.pt)
 * [LinkedIn](https://www.linkedin.com/company/inesc-tec/)
 * [YouTube](https://www.youtube.com/channel/UC2i-l2KZ8ZewLbjIPzbdrWw)
 * [Bluesky](https://bsky.app/profile/inesctec.bsky.social)
