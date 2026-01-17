@@ -12,7 +12,7 @@
 > [!IMPORTANT]  
 > **Please do not publish security vulnerabilities on public GitHub issues.**
 
-Any vulnerability found should be reported to the Organization Stewards (contacts available on the [Organization Main Page](https://www.inesctec.pt/pt)).
+Any vulnerability found should be reported to the Organization Stewards (contacts available in the repository README file).
 If you are still waiting for a response within 48 hours, please send us a follow-up email to confirm that we received your initial message.
 
 ### Reporting languages
